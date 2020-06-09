@@ -7,4 +7,5 @@ The assignment was the following: "design the tables to hold the data" (by doing
 This was, in other words, **Data Modeling**, **Data Engineering**, and **Data Analysis**.  
 The optional bonus that I completed was to visualize said data. Using SQLAlchemy, I imported the SQL DB into Pandas, eventually creating a histogram and bar chart!  
 This was the ERD that I had created:  
+
 ![ERD](https://github.com/ognjenstrbanovic/sql-challenge/blob/master/EmployeeSQL/QuickDBD-ERD.png?raw=true)
