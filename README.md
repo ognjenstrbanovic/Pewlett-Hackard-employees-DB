@@ -1,4 +1,4 @@
-# sql-Pewlett-Hackard-employees 🗄
+# Pewlett Hackard Employees Database 🗄
 ![DB](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/09-SQL/Instructions/sql.png?raw=true)  
 
 Hired at *Pewlett Hackard*, my first major task is a research project on all employees from 1980 up until 1990.  
